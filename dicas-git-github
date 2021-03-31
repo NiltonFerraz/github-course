@@ -1,0 +1,18 @@
+$ git init
+
+$ git add .
+
+$ git commit -m "Alterações realizadas"
+
+
+ALTERAÇÃO DO NOME DO REPOSITÓRIO OU ALTERAÇÃO DE CONTEÚDO NO GITHUB - É NECESSÁRIO ATUALIZAR E SINCRONIZAR COM A PASTA LOCAL
+
+USE:
+
+$ git pull https://github.com/NiltonFerraz/rocketseat-nlw3.git (NOVO NOME DO REPOSITÓRIO GITHUB)
+
+PARA SUBIR O CONTEÚDO PARA O GITHUB:
+
+$ git push
+
+
